@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "5aed6c60cede1991121265db4b33528374dadeb5",
+    "author": "Scott Chamberlain <sckott@fastmail.com>",
+    "time": "2021-05-06 14:07:29",
+    "files": 2,
+    "merge": false,
+    "message": "update cran comments and codemeta.json\n"
+  },
+  "remote": "https://github.com/ropensci/jqr",
+  "pkg": "jqr"
+}
