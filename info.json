@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "18ceaa14c02d5c52693ca179b2f8c2e7e1a2d37e",
+    "author": "Jeroen Ooms <jeroenooms@gmail.com>",
+    "time": "2023-12-04 12:27:48",
+    "files": 3,
+    "merge": false,
+    "message": "Fix a printf warning for cran\n"
+  },
+  "repo": "https://github.com/ropensci/jqr",
+  "pkg": "jqr"
+}
