@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "f920d08d7c59e97e4ef9b1b90fb4c19a57479348",
+    "author": "Jeroen Ooms <jeroenooms@gmail.com>",
+    "time": "2024-12-14T23:26:27Z",
+    "files": 4,
+    "merge": false,
+    "message": "Windows: use libjq from Rtools if found\n"
+  },
+  "repo": "https://github.com/ropensci/jqr",
+  "pkg": "jqr",
+  "time": "2026-08-31T10:10:22Z"
+}
